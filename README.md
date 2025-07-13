@@ -59,9 +59,3 @@ Using **Python** and visualization libraries like **Matplotlib**, **Seaborn**, a
 ### 6. 🏢 Branch-Wise Placement
 - **CSE** and **IT** branches have **highest placement ratios**
 - **Mechanical** and **Civil** branches lag behind in placement count
-
----
-View project Link : 
-### 🖼️ Dashboard Preview
-
-![PAN & Aadhaar Card Fraud Detection Dashboard](/Project/Engineering Student Jourany.ipynb)
