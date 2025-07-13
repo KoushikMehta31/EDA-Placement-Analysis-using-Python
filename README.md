@@ -64,4 +64,4 @@ Using **Python** and visualization libraries like **Matplotlib**, **Seaborn**, a
 View project Link : 
 ### 🖼️ Dashboard Preview
 
-![PAN & Aadhaar Card Fraud Detection Dashboard](assets/dashboard.png)
+![PAN & Aadhaar Card Fraud Detection Dashboard](/Project File/Engineering Student Jourany.ipynb)
